@@ -35,6 +35,6 @@
     /usr/local/share/zabbix/externalscripts/nut-ups.sh ups1 1c-server.mcb
     battery.capacity: 9.00 battery.charge: 100 battery.charge.low: 20 battery.charge.restart: 0 battery.protection: yes battery.runtime: 771 battery.type: PbAc device.mfr: EATON device.model: Eaton 5P 1150 device.serial: G116G32111 device.type: ups driver.name: usbhid-ups driver.parameter.pollfreq: 30 driver.parameter.pollinterval: 2 driver.parameter.port: auto driver.version: Windows-v2.6.5-5-7-g72f380c driver.version.data: MGE HID 1.32 driver.version.internal: 0.38 input.frequency.nominal: 50 input.voltage.nominal: 230 outlet.1.status: on output.current: 1.80 output.frequency: 50.0 output.frequency.nominal: 50 output.powerfactor: 0.82 output.voltage: 224.1 output.voltage.nominal: 230 ups.beeper.status: enabled ups.delay.shutdown: 20 ups.delay.start: 30 ups.efficiency: 92 ups.firmware: 02.14.0026 ups.load: 44 ups.mfr: EATON ups.model: Eaton 5P 1150 ups.power: 403 ups.power.nominal: 1150 ups.productid: ffff ups.realpower: 331 ups.realpower.nominal: 770 ups.serial: G116G32111 ups.shutdown: enabled ups.start.reboot: yes ups.status: OL CHRG ups.test.interval: 2592000 ups.test.result: Done and passed ups.timer.shutdown: -1 ups.timer.start: -1 ups.type: offline / line interactive ups.vendorid: 0463
 
-За основу был взят шаблон с https://sysadminmosaic.ru/nut/nut?redirect=1#zabbix
+За основу был взят шаблон с https://sysadminmosaic.ru/nut/#zabbix
 
 
